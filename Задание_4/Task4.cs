@@ -6,6 +6,7 @@ using System.IO;
 
 namespace Task4
 {
+    // Структура
     struct Account
     {
         public static string login;
